@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html >
+<head>
+   
+    <title>css page</title>
+    <style>
+        body{
+            background-color: burlywood;
+        }
+        #h12{
+            color: rgb(255, 196, 239);
+        }
+        #h13{
+            color: blueviolet;
+        }
+        div.container1{
+           background-color: rgb(220, 245, 228);
+           text-align: center;
+        }
+        div.container2{
+            background-color: rgb(220, 245, 230);
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body style="background-color: rgb(42, 124, 165);">
+    <div class="container1">
+    <h1 id="h12">welcome to python course</h1>
+    </div>
+    <div class="container2">
+    <h2 id="h13">this is my first page</h2>
+    </div>
+</body>
+</html>
